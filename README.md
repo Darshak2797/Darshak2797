@@ -130,20 +130,8 @@
 
 <br/><br/>
 
-<table align="center">
-<tr>
-<td width="50%">
 
-### 🔐 Super Cool URL Locker
-*A sleek, security‑focused URL management tool*
 
-```yaml
-Type:       "Web Security Tool"
-Tech:       ["HTML", "CSS", "JavaScript", "LocalStorage"]
-Features:
-  - "🔒 Encrypt & store sensitive URLs"
-  - "🎯 One‑click copy & launch"
-  - "🌙 Dark/Light theme toggle"
-  - "📁 Export/Import lockers"
-  - "🛡️ Password‑protected vault"
-Status:     "✅ Live Demo Coming Soon"
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/📧_Email-Replace_Me-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/darshak-bhalgamiya-3179b8379/"><img src="https://img.shields.io/badge/💼_LinkedIn-darshak--bhalgamiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/Darshak2797"><img src="https://img.shields.io/badge/🐙_GitHub-Darshak2797-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
