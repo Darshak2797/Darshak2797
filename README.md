@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+DARSHAK+BHALGAMIYA+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E_+CYBER+SECURITY+STUDENT" alt="Typing SVG" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Learning+Security%2C+Step+by+Step;%F0%9F%92%BB+Ethical+Hacking+%7C+Networking+%7C+Linux;%F0%9F%8E%2F+It's+You+vs+You;%F0%9F%93%8D+Gujarat%2C+India" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Learning+Security%2C+Step+by+Step;%F0%9F%92%BB+Ethical+Hacking+%7C+Networking+%7C+Linux;%F0%9F%8E%AF+It's+You+vs+You;%F0%9F%93%8D+Gujarat%2C+India" alt="Subtitle" />
 
 <br/>
 
