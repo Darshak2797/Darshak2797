@@ -2,7 +2,7 @@
 <img src="dnb.png" alt="Darshak Bhalgamiya — Discipline builds the future you'll thank yourself for" width="100%"/>
 </div>
 
-<div align="center">
+<div  align="center">
 
 <a href="https://github.com/TheCyberUchiha">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=600&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+DARSHAK+BHALGAMIYA+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E_+CYBER+SECURITY+STUDENT" alt="Typing SVG"/>
